@@ -34,6 +34,7 @@ El repositorio está organizado por los principales módulos formativos del grad
 
 ## Proyectos Destacados del Ciclo
 
-* **[Proyecto Gestión Eventos Castilla y León](./EntornoCliente/sitioWeb)**: Aplicación web desarrollada con express.js, react y MySQL para facilitar la suscripción de usuarios a eventos culturales de la comunidad autónoma de Castilla y León .
+* **[Proyecto Gestión Eventos Castilla y León](./EntornoCliente/sitioWeb)**: Aplicación web desarrollada con express.js, react y MySQL para facilitar la suscripción de usuarios a eventos culturales de la comunidad autónoma de Castilla y León.
+* **[API REST de Gestión de Usuarios](./Despliegue/node_project)**: API REST desarrollada en Node.js que permite añadir, eliminar, actualizar y eliminar usuarios de una base de datos MySQL. La API está contenerizada para poder ser puesta en producción con Docker.
 
 ---
