@@ -11,8 +11,8 @@ Este repositorio reúne las prácticas, ejercicios y proyectos desarrollados dur
 - **Frameworks / Librerías:** React, Bootstrap, Tailwind CSS, Angular
 
 ### Backend
-- **Lenguajes:** PHP, Javascript
-- **Frameworks:**  Laravel, Express
+- **Lenguajes:** PHP, Javascript, Python
+- **Frameworks:**  Laravel, Express, Django
 
 ### Herramientas & Entornos
 - **Control de Versiones:** Git, GitHub
